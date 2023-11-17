@@ -71,3 +71,34 @@ a{
   background-color: var(--color-febd69);
   color: #131921;
 }
+
+.famous-card .famous-content{
+  top: 20%;
+  left: 10%;
+}
+
+.img-famous{
+  width: 400px;
+}
+
+.famous-content h5{
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 400px;
+  color: white;
+  margin-bottom: 7px;
+}
+
+.famous-content h6{
+  font-size: 28px;
+  line-height: 38px;
+  font-weight: 500;
+  color: white;
+}
+
+.famous-content p{
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 100;
+  color: white;
+}
